@@ -199,6 +199,6 @@ body{
         display: block;
     }
     .sale-image__offer{
-        height: 60%;
+        display: none;
     }
 }
